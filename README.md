@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devdkartik
-- 👀 I’m interested in java and python programming
-- 🌱 I’m currently learning java
+- 👀 I’m interested in javaScript and python programming
+- 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me throw the internet
 
